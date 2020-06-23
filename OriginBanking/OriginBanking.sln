@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginBanking.Api", "OriginBanking.Api\OriginBanking.Api.csproj", "{072E309A-FF5C-4BEF-B54A-77B9F14DBBEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginBanking.Data", "OriginBanking.Data\OriginBanking.Data.csproj", "{D47BDF6B-A557-43AD-8426-6001921CBC1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{072E309A-FF5C-4BEF-B54A-77B9F14DBBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072E309A-FF5C-4BEF-B54A-77B9F14DBBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072E309A-FF5C-4BEF-B54A-77B9F14DBBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072E309A-FF5C-4BEF-B54A-77B9F14DBBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47BDF6B-A557-43AD-8426-6001921CBC1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47BDF6B-A557-43AD-8426-6001921CBC1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47BDF6B-A557-43AD-8426-6001921CBC1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47BDF6B-A557-43AD-8426-6001921CBC1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA5D9720-8778-4E9C-B1C8-55CCC026769E}
+	EndGlobalSection
+EndGlobal
